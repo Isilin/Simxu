@@ -26,3 +26,8 @@ simxu is free software: you can redistribute it and/or modify it under the terms
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+## F.A.Q.
+
+### **Q:** Why "simxu" does not begin with a capital letter ? 
+> **A:** Lojban doesn’t use lower-case (small) letters and upper-case (capital) letters in the same way that English does; sentences do not begin with an upper-case letter, nor do names. However, upper-case letters are used in Lojban to mark irregular stress within names. - **The Complete Lojban Language by John Woldemar Cowan**

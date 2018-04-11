@@ -1,0 +1,3 @@
+[submodule "extlibs/EdenCraft"]
+	path = extlibs/EdenCraft
+	url = https://github.com/Isilin/EdenCraft.git
