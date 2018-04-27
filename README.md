@@ -2,8 +2,7 @@
 
 
 ## Introduction
-simxu is an Open Source, multiplatform game based on the [Edencraft Engine](http://github.com/Isilin/EdenCraft).
-
+simxu is an Free and Open Source, multiplatform game based on the [Edencraft Engine](https://framagit.org/simnomce_u/EdenCraft).
 
 ## Compiling simxu
 This project use [Premake5](https://premake.github.io/download.html) to generate the project files. You need don't need to download Premake5, as it is provided in the build directory. To build the game, use the premake script, according to your system, then compile it.
@@ -12,7 +11,7 @@ This project use [Premake5](https://premake.github.io/download.html) to generate
 Tutorials and documentation is not available yet. Work in progress.
 
 ## Contribution to simxu
-Bugs can be reported on the Github issue tracker here: [![GitHub issues](https://img.shields.io/github/issues/Isilin/simxu.svg)](https://github.com/Isilin/simxu/issues)
+Bugs can be reported on the Framagit's Gitlab issue tracker here: [Gitlab issues](https://framagit.org/simnomce_u/simxu/issues)
 
 ## Authors
 * IsilinBN
@@ -29,5 +28,14 @@ You should have received a copy of the GNU General Public License along with thi
 
 ## F.A.Q.
 
-### **Q:** Why "simxu" does not begin with a capital letter ? 
+### **Q:** What is the meaning of "simxu" and "simxu lo ka xamgu"? 
+> **A:** Both expressions come from the Lojban language, "simxu lo ka xamgu" expression delivers a meaning to the word "symbiosis", and "simxu", part of this expression, has the meaning of "mutuality", choosen to give a short name to our game. Lojban takes and important place in simxu's lore.
+
+### **Q:** What is Lojban? Why using it?
+> **A:** Please visite the following website which will explain it better than us : <https://mw.lojban.org>. Lojban is used as a part of the simxu's lore we create along the game. The language itself was created with the idea of a non ambiguity in its meaning (a reason why their is several (long) means to express the meaning of the word "symbiosis" in Lojban) so a possibility to make it parsable which could be an interesting gameplay experience. A natural language doesn't have these particularities.
+
+### **Q:** How to pronounce "simxu" and "simxu lo ka xamgu"? 
+> **A:** Phonetically using [IPA] (https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) : [simxu] where "x" is a [voiceless velar fricative] (https://en.wikipedia.org/wiki/Voiceless_velar_fricative). You can find more information [here] (https://mw.lojban.org/papri/pronunciation_guide_in_English) on the website of the Lojban community.
+
+### **Q:** Why "simxu" does not begin with a capital letter? 
 > **A:** Lojban doesn’t use lower-case (small) letters and upper-case (capital) letters in the same way that English does; sentences do not begin with an upper-case letter, nor do names. However, upper-case letters are used in Lojban to mark irregular stress within names. - **The Complete Lojban Language by John Woldemar Cowan**
